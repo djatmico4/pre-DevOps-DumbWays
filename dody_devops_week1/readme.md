@@ -6,9 +6,7 @@ Pada mulanya Harvest Corp masih mengusung arsitektur monolitik, yang mana kekura
 
 Selain itu untuk servernya sendiri masih menggunakan server on premise. Kita tahu bahwa untuk model ini membutuhkan biaya investasi yang besar untuk inventorynya, pemasangan yang harus di client system, dan yang jelas membutuhkan tim IT profesional untuk mengelolanya.
 
-Kemudian setelah rapat diadakan menghasilkan keputusan bahwa mereka akan akan memg-hire seorang devops engineer.
-
-Di sinilah peran saya sebagai seorang devops engineer, mulai menyarankan perusahaan untuk beralih dari monolitik ke arsitektur microservices. Selain aplikasinya yang scalable, secure dan reliable, setiap service memiliki infrastruktur sendiri. Jadi, lebih mudah dalam membuat atau memperbarui aplikasi tanpa memikirkan hubungan/ketergantungan module dengan service yang lain, sehingga update dan maintenance menjadi lebih cepat dan mudah.
+Kemudian setelah rapat diadakan menghasilkan keputusan bahwa mereka akan akan memg-hire seorang devops engineer. Di sinilah peran saya sebagai seorang devops engineer, mulai menyarankan perusahaan untuk beralih dari monolitik ke arsitektur microservices. Selain aplikasinya yang scalable, secure dan reliable, setiap service memiliki infrastruktur sendiri. Jadi, lebih mudah dalam membuat atau memperbarui aplikasi tanpa memikirkan hubungan/ketergantungan module dengan service yang lain, sehingga update dan maintenance menjadi lebih cepat dan mudah.
 
 Kemudian mengganti server agar memakai Cloud Computing, dan juga saya akan menerapkan pendekatan kultur devops sebagai berikut ;
 
