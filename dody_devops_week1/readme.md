@@ -14,15 +14,15 @@ Kemudian mengganti server agar memakai Cloud Computing, dan juga saya akan mener
 
 1. Plan <br>
    Tahap rencana mencakup semua yang terjadi sebelum developer mulai menulis kode. Tool yang digunakan adalah JIRA SOFWARE, merupakan salah satu aplikasi yang dapat mendukung pekerjaan dan penjadwalan dengan baik.
-   ![planing](images/Jira-Software.png)
+   ![planing](images/jira.png)
 <br>
 
 2. Code <br>
    Tahap dimana developer team mulai melakukan coding sesuai plan yang telah dibuat. Di sini tool yang digunakan adalah GitHub
-   ![code](images/GitHub-logo.png)
+   ![code](images/github.png)
 <br>
 
-3. Build <br>
+1. Build <br>
    Merupakan tahap membangun aplikasi, developer team mulai melakukan penggabungan berbagai macam code yang sudah dilakukan. 
 <br>
 
@@ -46,7 +46,7 @@ Kemudian mengganti server agar memakai Cloud Computing, dan juga saya akan mener
    Tahap terakhir dari workflow DevOps yakni pemantauan aplikasi.
 
 Workflow di atas juga sama dengan konsep CI/CD (Continuous Integration/Continuous Deployment) berikut ini
-![CI/CD](images/CI-CD-concept.png)
+![CI/CD](images/ci_cd.png)
 <br>
 
 ### Selain itu alat-alat yang digunakan antara lain ;
@@ -63,17 +63,17 @@ Workflow di atas juga sama dengan konsep CI/CD (Continuous Integration/Continuou
 
 * **Docker** <br>
   platform perangkat lunak yang memungkinkan Anda membuat, menguji, dan menerapkan aplikasi dengan cepat.
-  ![docker](images/Docker-Symbol.png)
+  ![docker](images/docker.png)
 <br>
 
 * **Amazon Web Services** <br>
   merupakan penyedia layanan cloud yang aman, dan bisa memilih produk sesuai kebutuhan.
-  ![aws](images/AWS-Logo.png)
+  ![aws](images/aws.png)
 <br>
 
 * **Kubernetes** <br>
   platform open source untuk mengelola kumpulan kontainer satu sama lain.
-  ![kubernetes](images/wordpress-kubernetes.png)
+  ![kubernetes](images/kubernetes.png)
 <br>
 
 * **Grafana & Prometheus** <br>
