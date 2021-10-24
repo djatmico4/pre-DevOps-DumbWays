@@ -90,7 +90,7 @@
 13. Membuat user baru.
 
          sudo adduser <nama-user-baru>
-      ![adduser](images/addusr.png) <br>
+      ![adduser](images/adduser.png) <br>
 
 14. Berganti user.
 
