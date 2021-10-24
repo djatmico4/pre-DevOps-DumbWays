@@ -117,10 +117,10 @@
          sudo chown <options> <user:group> <nama-file/folder>
       ![chown](images/chown.png) <br>
 
-19. Menghapus user.
+19. Menampilkan daftar proses yang sedang berlangsung.
 
-         sudo deluser <nama-user>
-      ![deluser](images/deluser.png) <br>
+         top
+      ![top](images/top.png) <br>
 
 20. Mengecek koneksi server.
 
