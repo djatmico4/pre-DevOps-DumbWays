@@ -52,7 +52,7 @@ Workflow di atas juga sama dengan konsep CI/CD (Continuous Integration/Continuou
 ### Selain itu alat-alat yang digunakan antara lain ;
 
 * **Jenkins** <br>
-  adalah server otomatisasi open source, membantu mengotomatiskan bagian-bagian pengembangan perangkat lunak yang terkait dengan build, testing dan deploy lalu dapat melakukan proses yang berkelanjutan.
+  adalah server otomatisasi open source, membantu mengotomatiskan bagian-bagian pengembangan perangkat lunak yang terkait dengan build, testing dan deploy lalu dapat melakukan proses yang berkelanjutan. <br>
   ![jenkins](images/jenkins.png)
 <br>
 
@@ -62,22 +62,22 @@ Workflow di atas juga sama dengan konsep CI/CD (Continuous Integration/Continuou
 <br>
 
 * **Docker** <br>
-  platform perangkat lunak yang memungkinkan Anda membuat, menguji, dan menerapkan aplikasi dengan cepat.
+  platform perangkat lunak yang memungkinkan Anda membuat, menguji, dan menerapkan aplikasi dengan cepat. <br>
   ![docker](images/docker.png)
 <br>
 
 * **Amazon Web Services** <br>
-  merupakan penyedia layanan cloud yang aman, dan bisa memilih produk sesuai kebutuhan.
+  merupakan penyedia layanan cloud yang aman, dan bisa memilih produk sesuai kebutuhan. <br>
   ![aws](images/aws.png)
 <br>
 
 * **Kubernetes** <br>
-  platform open source untuk mengelola kumpulan kontainer satu sama lain.
+  platform open source untuk mengelola kumpulan kontainer satu sama lain. <br>
   ![kubernetes](images/kubernetes.png)
 <br>
 
 * **Grafana & Prometheus** <br>
-  Tool yang berfungsi untuk memantau apakah aplikasi berjalan dengan semestinya.
+  Tool yang berfungsi untuk memantau apakah aplikasi berjalan dengan semestinya. <br>
   ![monitoring](images/grafana_prometheus.png)
 <br>
 
