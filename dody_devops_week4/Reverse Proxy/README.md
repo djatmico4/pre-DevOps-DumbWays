@@ -82,7 +82,7 @@ Untuk webserver, silakan Anda install Nginx dan jalankan. pastikan Nginx run wel
 
   * Untuk Go, nyalakan dahulu nohup.
 
-      nohup ./index &
+         nohup ./index &
    ![startnohupgo](images/startnohupgo.png) <br>
 
   * Pindah directory ke app-domain, lalu buat file confignya.
