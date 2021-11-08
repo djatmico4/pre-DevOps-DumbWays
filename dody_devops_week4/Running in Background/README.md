@@ -17,6 +17,10 @@ adalah sebuah package process manager dari Keymetrics yang bertujuan agar projec
         pm2 start <namafoldernode>/<app>
     ![start](images/startnode.png) <br>
 
+    Hasilnya seperti berikut ; <br><br>
+    ![startnode2](images/startnode2.png) <br>
+    ![resultappnode](images/resultappnode.png) <br>
+
 3. Untuk stop service pm2 laukan perintah berikut :
 
         pm2 stop <namafoldernode>/<app>

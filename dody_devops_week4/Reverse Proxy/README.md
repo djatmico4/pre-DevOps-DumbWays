@@ -1,6 +1,6 @@
 # **Reverse Proxy**
 
-adalah konfigurasi standar yang digunakan untuk mengubah jalur trafic, misal aplikasi menggunakan port 5000 tetapi agar dapat diakses melalui port 80 maka haruns menggunakan reverse proxy.
+adalah konfigurasi standar yang digunakan untuk mengubah jalur trafic, misal aplikasi menggunakan port 5000 tetapi agar dapat diakses melalui port 80 maka harus menggunakan reverse proxy.
 
 Untuk webserver, silakan Anda install Nginx dan jalankan. pastikan Nginx run well. <br><br>
 ![nginx](images/nginx.png) <br>
